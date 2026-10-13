@@ -9,4 +9,4 @@ Course and seminar materials for **Multimedia** (Informatică economică, englez
 - `Cheatsheets si sinteze/` – notes and summaries
 - `Examen/` – exam material
 
-The repository is private because the lecture and exercise files belong to the course staff.
+The lecture and exercise files belong to the course staff.
